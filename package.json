@@ -1,0 +1,11 @@
+{
+  "name": "youtube-copy",
+  "version": "1.0.0",
+  "description": "It is a copy version for checking errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pritam Ghosh",
+  "license": "ISC"
+}
